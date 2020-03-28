@@ -1,0 +1,27 @@
+**BackEnd
+Acessar a pasta BackEnd e no terminal executar o comando npm init -y
+instalar o express através do comando npm install express
+criar o arquivo index.js
+importar o express para o arquivo index.js
+ver o arquivo exemplo.js
+Utilizar o Insomnia para visualizar requisições diversas.
+
+Recursos necessários para acesso ao banco de dados
+knex
+npm install knex
+npm install sqllite3
+npx knex init
+
+entidades do banco
+Levantamento de requisitos
+
+migrations -  funcionalidade do knex para criação das tabelas do banco e manutenção de histórico
+criar a estrutura na aplicação : npx knex migrate:make create_ongs
+cria a tabela no banco : npx knex migrate:latest 
+
+
+**FrontEnd
+criar o projeto frontEnd com react
+acessar a pasta base do projeto no terminal, executar o comando: npm create-react-app frontEnd
+Executar na pasta FrontEnd o comando npm start.
+Acessar a o endereço cocalhost:3000 para ver o FrontEnd sendo executado
