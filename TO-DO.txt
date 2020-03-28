@@ -27,3 +27,7 @@ Executar na pasta FrontEnd o comando npm start.
 Acessar a o endereço cocalhost:3000 para ver o FrontEnd sendo executado
 
 Estado: Informação que será mantida pelo componente.
+Pacote de itens: Feather icons
+npm install react-icons
+
+npm install react-router-dom

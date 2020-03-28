@@ -1,0 +1,4 @@
+{
+    "emment.syntaxProfiles": { "javascript": "jsx"},
+    "emment.includeLanguages": { "javascript": "javascriptreact"}
+}
