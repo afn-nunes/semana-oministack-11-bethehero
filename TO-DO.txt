@@ -25,3 +25,5 @@ criar o projeto frontEnd com react
 acessar a pasta base do projeto no terminal, executar o comando: npm create-react-app frontEnd
 Executar na pasta FrontEnd o comando npm start.
 Acessar a o endereço cocalhost:3000 para ver o FrontEnd sendo executado
+
+Estado: Informação que será mantida pelo componente.
