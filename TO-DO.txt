@@ -31,3 +31,8 @@ Pacote de itens: Feather icons
 npm install react-icons
 
 npm install react-router-dom
+
+
+Linkar o FrontEnd ao BackEnd
+Criar na pasta FrontEnd a pasta services e nela criar o arquivo api.js
+instalar o axios - Client http responsável pelas chamadas da api ao backend
